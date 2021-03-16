@@ -1,0 +1,10 @@
+UR1:    Il software deve covertire un file in formato x in un file in formato y preservandone il contenuto informativo.
+UR2:    Il software deve esse dotato di un HMI.
+UR3:    Il software deve avere un corretto funzionamento sia su ambiente Linux che Windows.
+UR4:    Il software deve poter aprire e visualizzare i file di estensione x,y.
+UR5:    Il software deve permettere l'apertura e il salvataggio dei file esportati in path a scelta.
+UR6:    Il software deve notificare all'utente un eventuale sovrascrittura di file esistenti.
+UR7:    Il software deve essere implementato in C/C++.
+UR8:    Il software non deve avere dimensione superiori a n.
+UR9:    Il nome del file di uscita deve avere il seguente formato "f".
+UR10:   Se il formato del nome del file in ingresso è "f" allora il programma dovrà acquisire nome e cognome.
