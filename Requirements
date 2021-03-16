@@ -4,8 +4,11 @@
 4 -> Select export file format (word,png)
 5 -> Export
 6 -> Select a export file name
-7 -> Check correct opening file extension
+7 -> Check correct opening file extension { forse Non-Functional } 
 8 -> Check opening file name format eg. NomeCognome_cv.pdf (forse possiamo joinare col requisito 7) [possibile implementazione a regex]
-9 -> Data feeding by file name format (l'output delle regex dell'8 vanno messe dentro una classe)
+9 -> Data feeding by file name format (l'output delle regex dell'8 vanno messe dentro una struttura dati per fare cose non ben definite) { Non-Functional }
 10 -> Save converted file
 11 -> Folder Manager
+12 -> Max spent time in showing pdf { Non-Functional }
+13 -> Implementation in C/C++ { Non-Functional}
+
