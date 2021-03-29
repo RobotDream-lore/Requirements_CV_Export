@@ -19,4 +19,5 @@ FR3:    Come Utente prima dell'esportazione a PDF devo poter vedere una preview 
 FR4:    Come Utente devo poter salvare il file esportato in qualsiasi cartella per la quale ho i permessi
 FR5:    Come Utente devo poter scegliere il nome del file esportato prima del salvataggio; la selezione di default è "NomeCognome_CV.pdf" (pensare per omonimi)
 FR6:    Come Utente devo poter assegnare uno score da 1 a 10 ad ogni candidato NB:Aggiungere score al modello
-FR7:    Come Utente devo poter decidere se utilizzare o meno l'utility di export automatico. Cioè se viene modificato un record che è già stato esportato a pdf                        allora verrà ri-esportato il file sovrascrivendo il pdf precedente.
+FR7:    Come Utente devo poter decidere se utilizzare o meno l'utility di export automatico. Cioè se viene modificato un record che è già stato esportato a pdf
+        allora verrà ri-esportato il file sovrascrivendo il pdf precedente.
